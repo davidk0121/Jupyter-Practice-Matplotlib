@@ -1,1 +1,1 @@
-# Jupyter-Practice-Matplotlib
+# Jupyter Practice Matplotlib
